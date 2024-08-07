@@ -185,8 +185,8 @@ body {
   border-radius: 8px;
   overflow: hidden;
   text-align: center;
-  width: 700px;
-  height: 450px;
+  width: 960px;
+  height: 540px;
   margin-top: 10%;
   transition: transform 0.3s ease, opacity 0.3s ease;
 }
